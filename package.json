@@ -1,5 +1,23 @@
 {
-	"devDependencies": {
-		"lerna": "^2.4.0"
-	}
+  "name": "@itsjonq/learning-lerna",
+  "version": "0.0.1",
+  "main": "index.js",
+  "scripts": {
+    "publish": "lerna publish",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ItsJonQ/learning-lerna.git"
+  },
+  "author": "Jon Quach <itsjonq@gmail.com> (https://jonquach.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ItsJonQ/learning-lerna/issues"
+  },
+  "homepage": "https://github.com/ItsJonQ/learning-lerna#readme",
+  "description": "",
+  "devDependencies": {
+    "lerna": "^2.4.0"
+  },
 }
