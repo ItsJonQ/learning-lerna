@@ -11,6 +11,7 @@
   "license": "MIT",
   "dependencies": {
     "@itsjonq/lerna-one": "^0.0.4",
-    "@itsjonq/lerna-two": "^0.0.3"
+    "@itsjonq/lerna-two": "^0.0.3",
+    "lodash": "4.17.4"
   }
 }
