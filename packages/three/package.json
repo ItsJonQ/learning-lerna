@@ -1,6 +1,6 @@
 {
   "name": "@itsjonq/lerna-three",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "",
   "repository": "itsjonq/learning-lerna",
   "main": "index.js",
@@ -10,7 +10,7 @@
   "author": "Jon Quach <itsjonq@gmail.com> (https://jonquach.com)",
   "license": "MIT",
   "dependencies": {
-    "@itsjonq/lerna-one": "^0.0.4",
+    "@itsjonq/lerna-one": "^0.0.5",
     "@itsjonq/lerna-two": "^0.0.3",
     "lodash": "4.17.4"
   }
